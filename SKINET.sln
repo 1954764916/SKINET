@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SKINET", "SKINET\SKINET.csproj", "{331CB0F5-38D2-4736-8695-0B28EB8E4AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{DF32AF32-5C10-4F03-902A-110049D843DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{3D49874D-A683-4A1E-84BD-C729CE9AE8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331CB0F5-38D2-4736-8695-0B28EB8E4AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331CB0F5-38D2-4736-8695-0B28EB8E4AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331CB0F5-38D2-4736-8695-0B28EB8E4AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331CB0F5-38D2-4736-8695-0B28EB8E4AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF32AF32-5C10-4F03-902A-110049D843DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF32AF32-5C10-4F03-902A-110049D843DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF32AF32-5C10-4F03-902A-110049D843DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF32AF32-5C10-4F03-902A-110049D843DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D49874D-A683-4A1E-84BD-C729CE9AE8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D49874D-A683-4A1E-84BD-C729CE9AE8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D49874D-A683-4A1E-84BD-C729CE9AE8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D49874D-A683-4A1E-84BD-C729CE9AE8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCE22C4-EEF6-4CC6-8675-925D38C76359}
+	EndGlobalSection
+EndGlobal
